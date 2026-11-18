@@ -47,6 +47,13 @@ const html = renderNewsletter({ accent: "pro", issue: { title: "…", summary: "
 
 ![繁體中文電子報範本 手機畫面](docs/screenshot-mobile.png)
 
+
+### WordPress 外掛版
+
+想直接放在自己的 WordPress 網站上，可以用「澄熠 LUCEVO・AI 工具箱」外掛：上傳、啟用就會自動建立 `/newsletter-template/` 工具頁（電子報範本產生器），頁面可在 Elementor 逐區塊改字，並內建 Rank Math SEO 與 schema。同一支外掛也包含 AI 自動化檢測、電子報範本產生器、電子報點擊檢查三個工具，在「設定 → LUCEVO 工具箱」分三個分頁各自開關與設定。
+
+線上版：[電子報範本產生器](https://ai.hostswp.com/newsletter-template/)
+
 ## 內容欄位
 
 | 欄位 | 說明 |
