@@ -1,0 +1,66 @@
+{
+  "accent": "factory",
+  "preheader": "AI 導入分 6 個階段，每一步做什麼、產出什麼一次看懂。",
+  "greeting": "您好",
+  "brand": {
+    "name": "澄熠 LUCEVO",
+    "url": "https://ai.hostswp.com/"
+  },
+  "issue": {
+    "number": 1,
+    "date": "2026.11.18",
+    "label": "本期主題",
+    "title": "AI導入流程 6 階段：每一步做什麼、產出什麼",
+    "summary": "很多公司卡在「想導入 AI，但不知道第一步是什麼」。其實 AI 導入可以拆成 6 個階段，每個階段都有明確的產出與負責人。",
+    "points": [
+      "目標對齊、流程盤點、資料準備",
+      "試點驗證：先挑一條小流程試做",
+      "上線治理與逐步擴展"
+    ],
+    "url": "https://ai.hostswp.com/ai-adoption/process/",
+    "image": "https://ai.hostswp.com/wp-content/uploads/2026/11/luce-x1.jpg"
+  },
+  "service": {
+    "label": "本期推薦服務",
+    "name": "AI 導入諮詢",
+    "pitch": "還不確定從哪裡開始？先用你們實際的工作舉例，把流程攤開來看，找出最值得先自動化的一段，再決定要不要做、怎麼做。",
+    "items": [
+      "一張你們現在的流程圖",
+      "最值得先自動化的一段",
+      "做法與工具的初步建議"
+    ],
+    "buttons": [
+      {
+        "text": "預約諮詢",
+        "url": "https://ai.hostswp.com/ai-consulting-2/"
+      },
+      {
+        "text": "了解諮詢流程",
+        "url": "https://ai.hostswp.com/ai-consulting-2/"
+      }
+    ]
+  },
+  "cta": {
+    "label": "NEXT STEP",
+    "title": "約 30 分鐘，聊聊你們最花時間的那段工作",
+    "text": "直接回覆這封信，或點下方按鈕留下公司與想改善的工作，由專人以 Email 與你聯繫。",
+    "buttons": [
+      {
+        "text": "預約諮詢",
+        "url": "https://ai.hostswp.com/ai-consulting-2/"
+      },
+      {
+        "text": "回信約時間",
+        "url": "mailto:hello@example.com?subject=%E9%A0%90%E7%B4%84%E8%AB%AE%E8%A9%A2"
+      }
+    ]
+  },
+  "signature": {
+    "name": "LUCEVO 團隊",
+    "title": "AI 自動化工作流規劃",
+    "email": "hello@example.com",
+    "website": "https://ai.hostswp.com/"
+  },
+  "footer": "這是電子報範本的示範內容，文章摘要取自澄熠 LUCEVO 官網。",
+  "unsubscribe": "https://example.com/unsubscribe"
+}

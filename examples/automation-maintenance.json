@@ -1,0 +1,62 @@
+{
+  "accent": "logistics",
+  "preheader": "自動化流程最怕默默壞掉，上線後要顧的 4 件事。",
+  "greeting": "您好",
+  "brand": {
+    "name": "澄熠 LUCEVO",
+    "url": "https://ai.hostswp.com/"
+  },
+  "issue": {
+    "number": 3,
+    "date": "2026.12.02",
+    "label": "本期主題",
+    "title": "自動化上線之後：流程為什麼會突然停下來",
+    "summary": "API 改版、授權過期、外部服務改規則、資料格式改變，都可能讓原本跑得好好的自動化流程停下來，而且常常沒人發現。",
+    "points": [
+      "故障排除與錯誤通知",
+      "定期健檢與授權到期提醒",
+      "備份與異動紀錄"
+    ],
+    "url": "https://ai.hostswp.com/automation-maintenance/",
+    "image": "https://ai.hostswp.com/wp-content/uploads/2026/11/luce-s3-2.jpg"
+  },
+  "service": {
+    "label": "本期推薦服務",
+    "name": "自動化維修與維護",
+    "pitch": "流程上線後最怕默默壞掉。幫你監控每條流程，出錯第一時間通知，壞了直接修好。",
+    "items": [
+      "每條流程的監控與錯誤通知",
+      "定期檢查授權、版本與執行紀錄",
+      "出錯時的排查與修復"
+    ],
+    "buttons": [
+      {
+        "text": "了解維護服務",
+        "url": "https://ai.hostswp.com/automation-maintenance/"
+      }
+    ]
+  },
+  "cta": {
+    "label": "NEXT STEP",
+    "title": "約 30 分鐘，聊聊你們最花時間的那段工作",
+    "text": "直接回覆這封信，或點下方按鈕留下公司與想改善的工作，由專人以 Email 與你聯繫。",
+    "buttons": [
+      {
+        "text": "預約諮詢",
+        "url": "https://ai.hostswp.com/ai-consulting-2/"
+      },
+      {
+        "text": "回信約時間",
+        "url": "mailto:hello@example.com?subject=%E9%A0%90%E7%B4%84%E8%AB%AE%E8%A9%A2"
+      }
+    ]
+  },
+  "signature": {
+    "name": "LUCEVO 團隊",
+    "title": "AI 自動化工作流規劃",
+    "email": "hello@example.com",
+    "website": "https://ai.hostswp.com/"
+  },
+  "footer": "這是電子報範本的示範內容，文章摘要取自澄熠 LUCEVO 官網。",
+  "unsubscribe": "https://example.com/unsubscribe"
+}

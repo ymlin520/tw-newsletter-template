@@ -1,0 +1,12 @@
+{
+  "name": "tw-newsletter-template",
+  "version": "1.0.0",
+  "description": "繁體中文 B2B 電子報 HTML 範本：表格排版、行內樣式、手機自動上下排，Gmail／Outlook 都能正常顯示，用 JSON 填內容就產出整封信。",
+  "type": "module",
+  "bin": { "tw-newsletter": "bin/build.js" },
+  "scripts": { "build": "node bin/build.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["newsletter", "email-template", "edm", "html-email", "電子報", "電子報範本", "EDM範本", "taiwan"],
+  "homepage": "https://ai.hostswp.com/ai-adoption/",
+  "license": "MIT"
+}
